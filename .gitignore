@@ -1,0 +1,8 @@
+*.avi
+*.csv
+*.tif
+*.tiff
+
+.ipynb_checkpoints
+/output
+/shit_stat
